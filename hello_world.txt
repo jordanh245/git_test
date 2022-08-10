@@ -1,2 +1,2 @@
 Hello
-this is a test for GITHUB command uploading.
+this is a test for GITHUB command line uploading.
